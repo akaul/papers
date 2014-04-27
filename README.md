@@ -1,7 +1,9 @@
 Papers
 ======
 
-Papers on the following subjects that I intend on reading/have read in the past:
+Research papers on a number of subjects that I've read in the past or intend on (hopefully) reading in the future. Broadly, the subjects cover:
 
+- Computational Neuroscience
 - Distributed Systems
+
 
