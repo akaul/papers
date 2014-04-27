@@ -6,6 +6,7 @@ Research papers on a number of subjects that I've read in the past or intend on 
 - Artificial Intelligence
 - Computational Neuroscience
 - Distributed Systems
+- Programming Languages
 - Quantum Computing
 
 
